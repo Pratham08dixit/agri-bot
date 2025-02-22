@@ -1,0 +1,9 @@
+streamlit
+langchain
+deep-translator
+SpeechRecognition
+gTTS
+streamlit-audiorec
+langdetect
+python-dotenv
+google-generativeai
